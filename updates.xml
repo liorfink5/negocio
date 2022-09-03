@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="Consultorio.exe" newVersion="2.3" newMediaFileId="92" fileSize="69516288" md5Sum="a63c44b15f4add953206bd12541dc683" sha256Sum="cb68fcde56fa34d9d819a1ca578d137f3711845e3c65bcbf433aa1d85a96b031" bundledJre="windows-x86-11.0.16.tar.gz" archive="false" singleBundle="false">
+    <comment language="es" />
+  </entry>
+</updateDescriptor>
