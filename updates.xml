@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="https://download1585.mediafire.com/v6chzv6r8c2g/lkmrkoykkute7pp/Negocio.exe">
-  <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="Negocio.exe" newVersion="1.1" newMediaFileId="92" fileSize="65711616" md5Sum="18822eec75719cec211c8507494c2b5d" sha256Sum="60149a05f0b02e31589a47e97068d18011a01bc3e7aeeebd77fe6740dd12b848" bundledJre="windows-x86-11.0.16.tar.gz" archive="false" singleBundle="false">
+<updateDescriptor baseUrl="https://download1582.mediafire.com/qvtqynk4h37g/lkmrkoykkute7pp/Negocio.exe">
+  <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="Negocio.exe" newVersion="1.5" newMediaFileId="92" fileSize="108302848" md5Sum="d0ae90a90bab047251cf61af99b9b3ee" sha256Sum="9fc35564dd99284fc1905e6d65ed18acd1b71671623179b38044e554e0332af0" bundledJre="windows-x86-11.0.16.1.tar.gz" archive="false" singleBundle="false">
     <comment language="es" />
   </entry>
 </updateDescriptor>
+
